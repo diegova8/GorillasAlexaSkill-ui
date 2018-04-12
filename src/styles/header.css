@@ -1,0 +1,22 @@
+
+.app-header {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+}
+
+.app-header .header-wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.app-header .header-wrapper .app-logo {
+  height: 60px;
+}
+
+.app-header .header-wrapper .login-img {
+  float: right;
+  margin-top: 10px;
+  margin-right: 35px;
+  width: 170px;
+}
